@@ -14,7 +14,8 @@
 
 **1. Таблица без индексов и партиций (Просто мешок)**
 Как выглядит:
-![image](https://github.com/user-attachments/assets/4c170aee-a1be-4256-bbd0-7b418c1802c3)
+![image](https://github.com/user-attachments/assets/594d0896-cbbd-42c5-9b16-068698fd070e)
+
 Есть один большой мешок, куда все номерки (данные) бросаются в случайном порядке.
 
 Пример:
